@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SkinTextView">
+        <attr name="android:textColor"/>
+        <attr name="android:background" />
+        <attr name="custom_typeface" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="SkinLinearLayout">
+        <attr name="android:background"/>
+    </declare-styleable>
+    <declare-styleable name="SkinButtonView">
+        <attr name="android:background"/>
+        <attr name="android:textColor"/>
+
+    </declare-styleable>
+</resources>
